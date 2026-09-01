@@ -122,4 +122,4 @@ Git push
 
 ![RiotGames](https://img.shields.io/badge/riotgames-%23D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
-![Extensões](./imagens/image.png)
+![Extensões](../imagens/image.png)
