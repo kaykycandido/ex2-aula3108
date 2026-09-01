@@ -85,3 +85,41 @@ Git add .
 Git commit -m
 Git push
 ```
+
+## Citações
+
+`> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.`
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+
+```
+| Tecnologias | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| GitHub | Hospedagem e colaboração |
+| Markdown | Documentação |
+```
+
+| Tecnologias | Finalidade |
+| --- | --- |
+| Git | Controle de versões |
+| GitHub | Hospedagem e colaboração |
+| Markdown | Documentação |
+
+```
+| Esquerda | Centro | Direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto |
+```
+
+| Esquerda | Centro | Direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto |
+
+## Imagens
+
+![RiotGames](https://img.shields.io/badge/riotgames-%23D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
+![Extensões](./imagens/image.png)
